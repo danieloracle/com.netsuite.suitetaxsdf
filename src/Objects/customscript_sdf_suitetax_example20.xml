@@ -1,0 +1,13 @@
+<taxcalculationplugin scriptid="customscript_sdf_suitetax_example20">
+  <description></description>
+  <isinactive>F</isinactive>
+  <loglevel>DEBUG</loglevel>
+  <name>SDF SuiteTax Example 20</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <runasrole></runasrole>
+  <scriptfile>[/SuiteApps/com.netsuite.suitetaxsdf/sdf_suitetax_example20.js]</scriptfile>
+  <status>RELEASED</status>
+</taxcalculationplugin>

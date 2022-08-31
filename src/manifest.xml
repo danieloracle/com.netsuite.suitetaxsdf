@@ -1,0 +1,16 @@
+<manifest projecttype="SUITEAPP">
+  <publisherid>com.netsuite</publisherid>
+  <projectid>suitetaxsdf</projectid>
+  <projectname>suitetaxsdf</projectname>
+  <projectversion>1.0.0</projectversion>
+  <frameworkversion>1.0</frameworkversion>
+  <dependencies>
+  <features>
+    <feature required="true">CUSTOMRECORDS</feature>
+    <feature required="true">SERVERSIDESCRIPTING</feature>
+    <feature required="false">CREATESUITEBUNDLES</feature>
+    <feature required="true">CUSTOMTRANSACTIONS</feature>
+    <feature required="true">TAX_OVERHAULINGDEV</feature>
+  </features>
+</dependencies>
+</manifest>
